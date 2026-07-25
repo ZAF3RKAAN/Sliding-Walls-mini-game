@@ -22,3 +22,9 @@ Before compiling the project, make sure to install the following libraries via t
 
 * **[Adafruit SSD1306](https://github.com/adafruit/Adafruit_SSD1306)** (v2.5.0+) – Display driver for monochrome OLEDs.
 * **[Adafruit GFX Library](https://github.com/adafruit/Adafruit-GFX-Library)** (v1.10.0+) – Core graphics primitive library.
+
+## 📄 License
+
+This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+
+You are free to use, modify, distribute, and sublicense this software for personal or commercial projects, as long as the original copyright notice is retained.
