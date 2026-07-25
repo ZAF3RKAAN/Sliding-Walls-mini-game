@@ -1,3 +1,13 @@
+/**
+ * @file Sliding-Walls-mini-game.ino
+ * @brief An arcade mini-game for Arduino Uno and SSD1306 OLED Display using potentiometer control.
+ * @author ZAF3RKAAN
+ * @license MIT
+ * 
+ * Copyright (c) 2026 ZAF3RKAAN
+ * Permission is hereby granted, free of charge, to any person obtaining a copy.
+ */
+
 #include <Adafruit_GFX.h>
 #include <Adafruit_SSD1306.h>
 
